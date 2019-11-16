@@ -1,0 +1,12 @@
++++
+title = "High-Throughput Assay and Discovery of Small Molecules that Interrupt Malaria Transmission"
+date = 2016-01-01
+authors = ["David M. Plouffe", "Melanie Wree", "Alan Y. Du", "Stephan Meister", "Fengwu Li", "Kailash Patra", "Aristea Lubar", "Shinji L. Okitsu", "Erika L. Flannery", "Nobutaka Kato", "Olga Tanaseichuk", "Eamon Comer", "Bin Zhou", "Kelli Kuhen", "Yingyao Zhou", "Didier Leroy", "Stuart L. Schreiber", "Christina A. Scherer", "Joseph Vinetz", "Elizabeth A. Winzeler"]
+publication_types = ["2"]
+abstract = "Preventing transmission is an important element of malaria control. However, most of the current available methods to assay for malaria transmission blocking are relatively low throughput and cannot be applied to large chemical libraries. We have developed a high-throughput and cost-effective assay, the Saponin-lysis Sexual Stage Assay (SaLSSA), for identifying small molecules with transmission-blocking capacity. SaLSSA analysis of 13,983 unique compounds uncovered that textgreater90% of well-characterized antimalarials, including endoperoxides and 4-aminoquinolines, as well as compounds active against asexual blood stages, lost most of their killing activity when parasites developed into metabolically quiescent stage V gametocytes. On the other hand, we identified compounds with consistent low nanomolar transmission-blocking activity, some of which showed cross-reactivity against asexual blood and liver stages. The data clearly emphasize substantial physiological differences between sexual and asexual parasites and provide a tool and starting points for the discovery and development of transmission-blocking drugs."
+featured = false
+publication = "*Cell Host & Microbe*"
+url_pdf = "https://www.sciencedirect.com/science/article/pii/S193131281500493X"
+doi = "10.1016/J.CHOM.2015.12.001"
++++
+

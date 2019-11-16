@@ -1,0 +1,21 @@
+@article{Tanaseichuk2012b,
+ abstract = {The metagenomics approach allows the simultaneous sequencing of all genomes in an environmental sample. This results in high complexity datasets, where in addition to repeats and sequencing errors, the number of genomes and their abundance ratios are unknown. Recently developed next-generation sequencing (NGS) technologies significantly improve the sequencing efficiency and cost. On the other hand, they result in shorter reads, which makes the separation of reads from different species harder. Among the existing computational tools for metagenomic analysis, there are similarity-based methods that use reference databases to align reads and composition-based methods that use composition patterns (i.e., frequencies of short words or l-mers) to cluster reads. Similarity-based methods are unable to classify reads from unknown species without close references (which constitute the majority of reads). Since composition patterns are preserved only in significantly large fragments, composition-based tools cannot be used for very short reads, which becomes a significant limitation with the development of NGS. A recently proposed algorithm, AbundanceBin, introduced another method that bins reads based on predicted abundances of the genomes sequenced. However, it does not separate reads from genomes of similar abundance levels. In this work, we present a two-phase heuristic algorithm for separating short paired-end reads from different genomes in a metagenomic dataset. We use the observation that most of the l-mers belong to unique genomes when l is sufficiently large. The first phase of the algorithm results in clusters of l-mers each of which belongs to one genome. During the second phase, clusters are merged based on l-mer repeat information. These final clusters are used to assign reads. The algorithm could handle very short reads and sequencing errors. It is initially designed for genomes with similar abundance levels and then extended to handle arbitrary abundance ratios. The software can be download for free at
+http://www.cs.ucr.edu/∼tanaseio/toss.htm
+
+. Our tests on a large number of simulated metagenomic datasets concerning species at various phylogenetic distances demonstrate that genomes can be separated if the number of common repeats is smaller than the number of genome-specific repeats. For such genomes, our method can separate NGS reads with a high precision and sensitivity.},
+ author = {Tanaseichuk, Olga and Borneman, James and Jiang, Tao},
+ doi = {10.1186/1748-7188-7-27},
+ file = {:Users/ant/Library/Application Support/Mendeley Desktop/Downloaded/Tanaseichuk, Borneman, Jiang - 2012 - Separating metagenomic short reads into genomes via clustering.pdf:pdf},
+ issn = {1748-7188},
+ journal = {Algorithms for Molecular Biology},
+ keywords = {Algorithms,Bioinformatics,Cellular and Medical Topics,Computational Biology/Bioinformatics,Physiological},
+ month = {dec},
+ number = {1},
+ pages = {27},
+ publisher = {BioMed Central},
+ title = {Separating metagenomic short reads into genomes via clustering},
+ url = {https://almob.biomedcentral.com/articles/10.1186/1748-7188-7-27},
+ volume = {7},
+ year = {2012}
+}
+

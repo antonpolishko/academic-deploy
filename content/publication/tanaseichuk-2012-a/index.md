@@ -1,0 +1,13 @@
++++
+title = "A Probabilistic Approach to Accurate Abundance-Based Binning of Metagenomic Reads"
+date = 2012-01-01
+authors = ["Olga Tanaseichuk", "James Borneman", "Tao Jiang"]
+publication_types = ["6"]
+abstract = "An important problem in metagenomic analysis is to determine and quantify species (or genomes) in a metagenomic sample. The identification of phylogenetically related groups of sequence reads in a metagenomic dataset is often referred to as binning. Similarity-based binning methods rely on reference databases, and are unable to classify reads from unknown organisms. Composition-based methods exploit compositional patterns that are preserved in sufficiently long fragments, but are not suitable for binning very short next-generation sequencing (NGS) reads. Recently, several new metagenomic binning algorithms that can deal with NGS reads and do not rely on reference databases have been developed. However, all of them have difficulty with handling samples containing low-abundance species. We propose a new method to accurately estimate the abundance levels of species based on a novel probabilistic model for counting l-mer frequencies in a metagenomic dataset that takes into account frequencies of erroneous l-mers and repeated l-mers. An expectation maximization (EM) algorithm is used to learn the parameters of the model. Our algorithm automatically determines the number of abundance groups in a dataset and bins the reads into these groups. We show that our method outperforms the most recent abundance-based binning method, AbundanceBin, on both simulated and real datasets. We also show that the improved abundance-based binning method can be incorporated into a recent tool TOSS, which separates genomes with similar abundance levels and employs AbundanceBin as a preprocessing step to handle different abundance levels, to enhance its performance. We test the improved TOSS on simulated datasets and show that it significantly outperforms TOSS on datasets containing low-abundance genomes. Finally, we compare this approach against very recent metagenomic binning tools MetaCluster 4.0 and MetaCluster 5.0 on simulated data and demonstrate that it usually achieves a better sensitivity and breaks fewer genomes."
+featured = false
+publication = ""
+tags = ["abundance-based binning", "expectation maximization", "metagenomics", "next-generation sequencing"]
+url_pdf = "http://link.springer.com/10.1007/978-3-642-33122-0_32"
+doi = "10.1007/978-3-642-33122-0_32"
++++
+

@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/antonpolishko
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://antonpolishko.com
+  * I am antonpolishko (https://keybase.io/antonpolishko) on keybase.
+  * I have a public key ASC3mqICsbdAYdqQHMwhuZBsy-v4Z4w39QH2S7z_tCbnBgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b79aa202b1b74061da901ccc21b9906ccbebf8678c37f501f64bbcffb426e7060a",
+      "host": "keybase.io",
+      "kid": "0120b79aa202b1b74061da901ccc21b9906ccbebf8678c37f501f64bbcffb426e7060a",
+      "uid": "3d421c404969278e66235376cc412a19",
+      "username": "antonpolishko"
+    },
+    "merkle_root": {
+      "ctime": 1573902462,
+      "hash": "26e3f834151be25e7983f1a30e869f6c6ca26cc7959d9af7c9a8923aa596590612fd3fd857970bd4b4dab92c800dde6de83a4897eb3a7f93410847b354b2487c",
+      "hash_meta": "67d076e0b3ef3ff914565ddb65e40aee5d4fef008a00ab201ff4c1920ba0e3f1",
+      "seqno": 9795870
+    },
+    "service": {
+      "entropy": "CCc8kdLvnI5jM3VaIaxabEzu",
+      "hostname": "antonpolishko.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1573902471,
+  "expire_in": 504576000,
+  "prev": "3cee0e0896dbf98faf348b0f1df9300a3d961e881a0e5965294a84a391aa9e06",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgt5qiArG3QGHakBzMIbmQbMvr+GeMN/UB9ku8/7Qm5wYKp3BheWxvYWTESpcCD8QgPO4OCJbb+Y+vNIsPHfkwCj2WHogaDlllKUqEo5GqngbEIItKCNrrUncURFwYG6vvZLJaHse0vogGdw28NS8na+B5AgHCo3NpZ8RA0ITQq8+Xurtu8uOFGrgCUxxx1mOXOzKvbZmO/JlOExSxk8ql82E73vMfQpA2J5nz+I2ALpS7RB/JFAxt1JJaCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDwBWWb1CKS/R7B3IwD40uyPIZjtle2UidDUXOxTPDpRo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/antonpolishko
+
+==================================================================

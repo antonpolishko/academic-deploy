@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Olga Tanseichuk
+name: Olga Tanaseichuk
 
 # Username (this should match the folder name)
 authors:
